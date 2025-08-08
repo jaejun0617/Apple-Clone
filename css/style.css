@@ -515,6 +515,7 @@ nav > ul > li > a {
    width: 100%;
    display: flex;
    justify-content: center;
+   height: 673px;
 }
 
 .info_text {
