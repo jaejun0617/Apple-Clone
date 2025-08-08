@@ -55,7 +55,7 @@ nav > ul > li > a {
 
 .banner_section {
    margin-top: 45px;
-   background-image: url(/assets/images/banner01.jpg);
+   background-image: url(./assets/images/banner01.jpg);
    background-repeat: no-repeat;
    background-position: center center;
    background-size: cover;
