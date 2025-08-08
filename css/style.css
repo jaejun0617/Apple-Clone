@@ -154,7 +154,7 @@ nav > ul > li > a {
 /* 섹션 2 */
 
 .MacBook_section {
-   background-image: url(/assets/images/banner02.jpg);
+   background-image: url(../assets/images/banner02.jpg);
    background-repeat: no-repeat;
    background-position: center center;
    background-size: cover;
